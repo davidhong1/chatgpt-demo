@@ -26,5 +26,7 @@ jupyter-lab .
 # 部分数据引用
 
 https://github.com/openai/openai-cookbook
+
 课程官方 repo
+
 https://github.com/xuwenhao/geektime-ai-course
