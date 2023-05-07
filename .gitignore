@@ -137,4 +137,4 @@ dmypy.json
 *.bin.gz
 *.bin
 20_newsgroup.csv
-data/20_newsgroup_with_embedding.parquet
+data/
