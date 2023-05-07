@@ -19,8 +19,9 @@ conda install -c conda-forge scipy
 conda install -c conda-forge scikit-learn
 
 export OPENAI_API_KEY=在这里写你获取到的ApiKey
-jupyter-lab .
+make run-jupyter-lab
 
+# 还有很多依赖，在后面的课程中逐步安装上
 ```
 
 # 部分数据引用
