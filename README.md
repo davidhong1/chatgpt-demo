@@ -22,6 +22,8 @@ export OPENAI_API_KEY=在这里写你获取到的ApiKey
 make run-jupyter-lab
 
 # 还有很多依赖，在后面的课程中逐步安装上
+# 10.ipynb 和 11.ipynb 针对 llama_index==v0.6.1 版本做了改造
+
 ```
 
 # 部分数据引用
